@@ -51,6 +51,8 @@ So now I am a **Javascript Developer** focused on the front end with ReactJS. To
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ---
 
