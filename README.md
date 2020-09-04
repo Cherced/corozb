@@ -41,8 +41,11 @@ So now I am a **Javascript Developer** focused on the front end with ReactJS. To
 <br>
 <br>
 
+<p align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corozb&layout=compact&hide=jupyter notebook&bg_color=2E3440&text_color=D8DEE9&title_color=7490AC" /><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=corozb&show_icons=true&hide=issues,stars&&bg_color=2E3440&text_color=D8DEE9&title_color=7490AC&icon_color=7090ac" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corozb&layout=compact&hide=jupyter notebook&bg_color=2E3440&text_color=D8DEE9&title_color=7490AC" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=corozb&show_icons=true&hide=issues,stars&&bg_color=2E3440&text_color=D8DEE9&title_color=7490AC&icon_color=7090ac" />
+</p>
 
 <br>
 <br>
